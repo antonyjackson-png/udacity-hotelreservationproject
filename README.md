@@ -1,3 +1,3 @@
 # udacity-hotelreservationproject
 
-This is project 1 of the Udacity 'Swift Tech Scholarship' program.
+This is project 1 of the Udacity Swift Tech Scholarship program 'DevOps Engineering with Java'.
